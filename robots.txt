@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# پس از ثبت دامنه، خط زیر را با دامنه واقعی جایگزین و از حالت توضیح خارج کنید:
+# Sitemap: https://example.com/sitemap.xml
+Disallow: /login.html
+Disallow: /admin.html

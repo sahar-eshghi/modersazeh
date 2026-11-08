@@ -1,0 +1,19 @@
+{
+  "name": "مدرن سازه",
+  "short_name": "مدرن سازه",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "author": "Sahar Eshghi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0a09",
+  "theme_color": "#0b0a09",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
